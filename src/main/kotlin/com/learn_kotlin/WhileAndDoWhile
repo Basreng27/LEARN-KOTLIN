@@ -1,0 +1,22 @@
+fun main() {
+    var counter = 1
+
+    // While
+    while (counter <= 7){
+        println("Hello, World!")
+        counter++
+    }
+
+    // Do Whilw
+    do {
+        println("Hello, World!")
+        counter++
+    } while (counter <= 7)
+
+    // Infiniti Loop
+    // hindari ini
+    var value = 'A'
+    do {
+        print(value)
+    } while (value <= 'Z')
+}

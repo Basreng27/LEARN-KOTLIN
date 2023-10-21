@@ -24,6 +24,7 @@ class User(val name : String, val age : Int){
 data class DataUser(val name : String, val age : Int)
 
 fun main(){
+// Penerapan
     val user = User("nrohmen", 17)
     val dataUser = DataUser("nrohmen", 17)
 
@@ -37,4 +38,13 @@ fun main(){
 
     println(dataUser4.equals(dataUser2))
     println(dataUser4.equals(dataUser3))
+
+// Copy
+    // copy() = untuk menyalin data menjadi sama "duplicate data"
+    val dataUserCopy = DataUser("nrohmen", 17)
+    val dataUserCopy2 = dataUserCopy.copy()
+    val dataUserCopy5 = dataUser.copy(age = 18) // jika ingin merubah age nya
+
+    println(dataUserCopy2)
+    println(dataUserCopy5)
 }

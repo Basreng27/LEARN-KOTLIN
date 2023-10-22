@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 7
+
 fun main() {
     // mempercepat pwrhitungan 1 jt data
     val list = (1..1000000).toList()

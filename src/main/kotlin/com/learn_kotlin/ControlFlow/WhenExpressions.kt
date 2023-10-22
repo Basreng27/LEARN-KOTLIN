@@ -1,3 +1,5 @@
+// 3
+
 fun main() {
 // when digunakan saat ada lebih dari 2 kondisi. jika hanya 2 lebih baik menggunakan if els
     val value = 7

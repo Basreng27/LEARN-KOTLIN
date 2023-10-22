@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 6
+
 fun main(args: Array<String>) {
 // filter() dan filterNot()
     // filter()

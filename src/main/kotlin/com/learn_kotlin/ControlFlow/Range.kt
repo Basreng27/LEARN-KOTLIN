@@ -1,3 +1,5 @@
+// 5
+
 fun main() {
     // Range direpresentasikan dengan operator .. atau dengan fungsi rangeTo() dan downTo().
     // bisa juga menggunakan val rangeInt = 1.rangeTo(10) dan val downInt = 10.downTo(1) untuk dari terbesar ke terkecil

@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 4
+
 // Set merupakan sebuah collection yang hanya dapat menyimpan nilai yang unik.
 // menyimpan data yang berbeda beda
 fun main(args: Array<String>) {

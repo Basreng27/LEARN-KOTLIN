@@ -1,3 +1,5 @@
+// 1
+
 // function Main (Fungsi Utama yang akan dijalankan)
 fun main(){
 //    mendeklarasikan varibale

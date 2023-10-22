@@ -1,3 +1,5 @@
+// 7
+
 fun main() {
     // continue
     val listOfInt = listOf(1, 2, 3, null, 5, null, 7)

@@ -1,3 +1,5 @@
+// 1
+
 // tipe data enum
 // pendeklarasian
 enum class Color(val value: Int) {

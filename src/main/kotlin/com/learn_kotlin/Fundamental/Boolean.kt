@@ -1,3 +1,5 @@
+// 4
+
 fun main(){
     // boolean berisi perintah yang isinya "and" dan "or" dan "not or" dan "not"
     // dengan menggunakan simbol "&&" untuk "and" dan "||" untuk "or" dan "!=" untuk "not or" dan "!" untuk "not"

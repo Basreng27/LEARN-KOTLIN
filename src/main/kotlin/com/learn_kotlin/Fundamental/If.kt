@@ -1,3 +1,5 @@
+// 3
+
 fun main(){
     val jamBuka = 7
     val sekarang = 20

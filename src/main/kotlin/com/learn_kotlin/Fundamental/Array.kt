@@ -1,3 +1,5 @@
+// 6
+
 fun main(){
     /*
     // untuk membuat array bisa menggunakan library arrayOf() dan array memliki beberapa fungsi yaitu get, set, size

@@ -1,3 +1,5 @@
+// 2
+
 fun main(){
     // pemanggilan fungsi
     // bioData("","")

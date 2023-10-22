@@ -1,3 +1,5 @@
+// 7
+
 fun main(){
 // NullAble
     // membuat variable bisa di isi nul dengan menggunakan "?"

@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 3
+
 // List dapat menyimpan banyak data menjadi satu objek.
 // penulisan val numberList : List<Int> = listOf(1, 2, 3, 4, 5)
 fun main() {

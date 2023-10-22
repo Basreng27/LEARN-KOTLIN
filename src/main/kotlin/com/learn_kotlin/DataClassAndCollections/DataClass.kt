@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 1
+
 // Class jika inngin memiliki fungsi equals seperti data class
 class User(val name : String, val age : Int){
 

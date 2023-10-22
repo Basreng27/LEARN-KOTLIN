@@ -1,3 +1,5 @@
+// 6
+
 fun main() {
     //  For dapat digunakan pada Ranges, Collections, Arrays dan apapun yang menyediakan iterator.
     val ranges = 1..5

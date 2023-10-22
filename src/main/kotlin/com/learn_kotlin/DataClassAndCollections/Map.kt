@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 5
+
 // collection yang dapat menyimpan data dengan format key-value.
 fun main(args: Array<String>) {
     val capital = mapOf(

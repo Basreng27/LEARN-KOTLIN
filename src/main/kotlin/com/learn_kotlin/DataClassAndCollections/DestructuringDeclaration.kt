@@ -1,3 +1,5 @@
+package com.learn_kotlin.DataClassAndCollections// 2
+
 // Destructuring Declaration adalah proses memetakan objek menjadi sebuah variabel
 
 data class DataUsers(val name : String, val age : Int)

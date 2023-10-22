@@ -1,3 +1,5 @@
+// 8
+
 fun main(){
     // biasa di pakai
     var text = "Rayandra"

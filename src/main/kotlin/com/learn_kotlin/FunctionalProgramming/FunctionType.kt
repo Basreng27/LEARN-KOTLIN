@@ -1,4 +1,5 @@
 // 4
+// Lamda ada
 
 fun main() {
     val sum: Arithmetic = { valueA, valueB -> valueA + valueB }
@@ -67,3 +68,23 @@ inline fun printResultIF(value: Int, sum: (Int) -> Int) {
     println(result)
 }
 
+// Kotlin Standard Library
+//Scope Function = let, run, with, apply, dan also.
+//Context Object
+//Lambda receiver (this)
+val buildString = StringBuilder().apply {
+    append("Hello ")
+    append("Kotlin ")
+}
+// Lambda argument (it)
+//val text = "Hello"
+//text.let {
+//    val message = "$it Kotlin"
+//    println(message)
+//}
+//
+//val text = "Hello"
+//text.let { value ->
+//    val message = "$value Kotlin"
+//    println(message)
+//}

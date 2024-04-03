@@ -1,0 +1,16 @@
+-> install gradle
+ketikan gradle init pada folder yang sudah di jalankan cmd nya untuk membuat project baru.
+setelah itu akan ada perintah untuk memlilih project apa yang akan di buat. jika ingin membuat aplication maka pilih 2.
+kemuadian akan ada pilihan lagi yaitu bahasa apa yang digunakan, maka pilih kotlin dengan angka 4.
+selanjutnya klik no dan pilih kotlin untuk setelahnya yaitu 1.
+
+bisa diringkas menjadi :
+gradle init --type kotlin-application --dsl kotlin --project-name kotlin-starter --package com.dicoding.kotlin
+
+-> config
+gradle-wrapper.properties = env nya pada php.
+settings.gradle.kts = mengatur nama aplikasi.
+build.gradle.kts = untuk menambah depedency atau library baru.
+
+-> run app
+gradle run
